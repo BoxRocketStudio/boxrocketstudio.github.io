@@ -34,7 +34,7 @@ color:
 footer:
   copyright: Box Rocket Studio
   location: Los Angeles, CA
-  social: Around the Web
+  social: Social
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -43,12 +43,6 @@ social:
     url: http://twitter.com/boxrocketstudio
   - title: github
     url: http://github.com/jekyll
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
 
 # Postal address (add as many lines as necessary)
 address:
