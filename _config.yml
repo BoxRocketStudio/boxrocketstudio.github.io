@@ -2,9 +2,9 @@
 title: Box Rocket Studio
 email: your-email@domain.com
 url: https://boxrocket.github.io
-description: "An Animation Technology team focused on Story."
+description: "Animation and Character for Conversational AI"
 keywords: "animation, technology, visualization, interactive, ar, vr, creative, game engine, storytelling, story, narrative"
-skills: "Animation - Visualization - Interactive"
+skills: "Animation and Character for Conversational AI"
 meta_author: Studio Box Rocket
 
 # Google webmaster tools
@@ -41,7 +41,7 @@ social:
   - title: twitter
     url: http://twitter.com/boxrocketstudio
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/BoxRocketStudio
   - title: instagram
     url: http://instagram.com/boxrocketstudio
 
