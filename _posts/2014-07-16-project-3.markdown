@@ -2,10 +2,10 @@
 layout: default
 modal-id: 3
 date: 2020-04-01
-img: circus.png
+img: fun.png
 alt: image-alt
 project-date: April 2020
-client: Box Rocket
+client: Box Rocket Studio
 category: Stuff
-description: Here is some fun stuff
+description: Here is some fun stuff we made for you. Yes, for you internet traveler. Go ahead, download it. We're glad you came. 
 ---
