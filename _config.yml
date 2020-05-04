@@ -1,11 +1,11 @@
 # Site settings
 title: Box Rocket Studio
-email: your-email@domain.com
+email: admin@boxrocket.studio
 url: https://boxrocket.github.io
-description: "Animation and Character for Conversational AI"
+description: "Animation | Visualization | Interactive"
 keywords: "animation, technology, visualization, interactive, ar, vr, creative, game engine, storytelling, story, narrative"
-skills: "Animation for Conversational AI"
-meta_author: Studio Box Rocket
+skills: "Animation | Visualization | Interactive"
+meta_author: Box Rocket Studio
 
 # Google webmaster tools
 google_verify:
