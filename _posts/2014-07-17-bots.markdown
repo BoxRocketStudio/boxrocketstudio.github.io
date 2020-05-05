@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2020-04-20
-img: rb2.png
+img: bots.png
 alt: image-alt
 project-date: April 2020
 client: Box Rocket Studio
